@@ -35,7 +35,7 @@
     "@fastify/session": "^10.5.0",
     "@fastify/static": "^6.10.2",
     "@fastify/swagger": "^8.12.1",
-    "@fastify/swagger-ui": "^2.0.1",
+    "@fastify/swagger-ui": "^2.1.0",
     "@ffmpeg.wasm/core-mt": "^0.12.0",
     "@ffmpeg.wasm/main": "^0.12.0",
     "@google-ai/generativelanguage": "^2.0.0",
